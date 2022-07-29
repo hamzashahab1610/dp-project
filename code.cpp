@@ -2,11 +2,7 @@
 #include<vector>
 #include<cstdlib>
 using namespace std;
-/*==============================
-Ersoy Efe Uruk - 20140601051
-Ipek Tekin - 20140601048
-Umutcan Berk Hasret - 20150601028
-==================================*/
+
 class Person;
 class Hospital;
 
